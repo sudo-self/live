@@ -76,7 +76,7 @@ const MemberCursors = () => {
             <div
               style={{ backgroundColor: cursorColor }}
               className={`${styles.cursorName} member-cursor`}
-            >
+            > Point&Click
               {member.profileData.name}
             </div>
           </div>
