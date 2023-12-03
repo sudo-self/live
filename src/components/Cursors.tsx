@@ -41,7 +41,7 @@ const YourCursor = ({
         style={{ backgroundColor: cursorColor }}
         className={styles.cursorName}
       >
-        You
+        Power Cycle
       </div>
     </div>
   );
