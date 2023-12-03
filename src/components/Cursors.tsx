@@ -41,7 +41,7 @@ const YourCursor = ({
         style={{ backgroundColor: cursorColor }}
         className={styles.cursorName}
       >
-        Power Cycle
+        Lazer m.
       </div>
     </div>
   );
@@ -76,7 +76,7 @@ const MemberCursors = () => {
             <div
               style={{ backgroundColor: cursorColor }}
               className={`${styles.cursorName} member-cursor`}
-            > Point&Click
+            >
               {member.profileData.name}
             </div>
           </div>
