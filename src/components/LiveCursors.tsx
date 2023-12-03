@@ -36,8 +36,7 @@ const LiveCursors = () => {
       ref={liveCursors}
       className={`example-container ${styles.liveCursorsContainer}`}
     >
-      <p style={{ maxWidth: "80%", textAlign: "center" }}>🧀 🍷 Welcome to the same page!
-
+      <p style={{ maxWidth: "80%", textAlign: "center" }}>🧀🍷.:*~*:._.:*~*:.Welcome to the same page!:*~*:._.:*~* 🎄🛷
 
 </p>
       <YourCursor self={self as Member | null} parentRef={liveCursors} />
